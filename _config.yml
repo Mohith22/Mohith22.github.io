@@ -24,7 +24,7 @@ description: Master's student @ New York University
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resume: "http://deanattali.com"
+  Resume: "mohith22.github.io/Mohith_NYU_Resume.pdf"
   Projects:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"

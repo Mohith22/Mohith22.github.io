@@ -5,7 +5,7 @@
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
 url: "https://mohith22.github.io"
-baseurl: ""
+baseurl: "https://mohith22.github.io"
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Mohith Damarapati
+title: 
 
 # Short description of your site
 description: Master's student @ New York University
@@ -24,15 +24,15 @@ description: Master's student @ New York University
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  Resume: "http://deanattali.com"
+  Projects:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+avatar: "/img/Mohith.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter

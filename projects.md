@@ -19,5 +19,9 @@ algorithms like GrabCut and GMM.  Reduced overall task and human capital by 50% 
 + [**Sudoku Solver**](https://github.com/Mohith22/Sudoku_Solver): Sudoku is a famous Japanese puzzle which can be found in newspapers and magazines.  Implemented a backtracking algorithm in python to solve the Sudoku puzzle automatically.
 Object Character Recognition (OCR) model trained on MNIST dataset is used to auto detect the puzzle.
 
++ [**Custom Cryptosystem and secured Chat Application**](https://github.com/Mohith22/CryptoSystem): Implemented a cryptosystem inspired by the Public Key Cryptography, which was taught as a part of Info. Sec. Course.  Diffie-Hellman’s method is used for the key exchange, followed by a feistel network for encryption and decryption.  System further extended to a chat application with Socket Programming.
+
++ [**Movie Booking Website**](https://github.com/Mohith22/BookCinema): Developed an online movie booking website which has features like signup, login, movie display sorted by category, seat map, booking history, and recommendations based on user’s past data.  Simple linear regression algorithm is used to estimate the user inclination to a category to provide recommendations.
+
 
 
